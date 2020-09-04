@@ -8,7 +8,7 @@ Welcome to my GitHub Profile!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munterkofler&hide=ruby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Years Badge](https://badges.pufler.dev/years/munterkofler)](https://badges.pufler.dev) [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=munterkofler|munterkofler)]()
+[![Years Badge](https://badges.pufler.dev/years/munterkofler)](https://badges.pufler.dev) [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=munterkofler|munterkofler)](https://visitor-badge.glitch.me)
 
 <!--
 **munterkofler/munterkofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
