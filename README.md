@@ -4,7 +4,7 @@ Welcome to my GitHub Profile!
 
 🌱 I’m currently learning Traefik and Docker.
 
-[![Years Badge](https://badges.pufler.dev/years/munterkofler)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/munterkofler)](https://badges.pufler.dev) [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=munterkofler|munterkofler)]()
 
 <!--
 **munterkofler/munterkofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
