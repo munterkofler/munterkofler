@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile!
 
-🌱 I’m currently learning Traefik and Docker.
+<!--🌱 I’m currently learning Traefik and Docker.-->
 <br /><br />
 <!--![Stats](https://github-readme-stats.vercel.app/api?username=munterkofler&show_icons=true)-->
 
