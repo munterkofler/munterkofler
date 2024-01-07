@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 Welcome to my GitHub Profile!
+
+In case you like to support me: ☕️ [Buy me a coffee](https://www.buymeacoffee.com/munterkofler)
+
 <!--
 **munterkofler/munterkofler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
